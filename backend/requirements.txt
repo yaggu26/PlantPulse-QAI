@@ -1,0 +1,8 @@
+Flask
+flask-cors
+gunicorn
+numpy
+Pillow
+scikit-learn
+joblib
+pennylane
