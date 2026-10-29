@@ -31,7 +31,7 @@ import type {
 const ACCEPTED = ['image/jpeg', 'image/png', 'image/webp'];
 const MAX_SIZE = 8 * 1024 * 1024;
 
-const API_URL = 'http://127.0.0.1:5000/api/analyze';
+const API_URL = 'https://plantpulse-qai.onrender.com/api/analyze';
 
 const TABS: {
   id: InputMethod;
